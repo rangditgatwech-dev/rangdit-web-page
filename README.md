@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title>
+            html web page
+        </title>
+    </head>
+    <body>
+       <input type="text" id="username" placeholder="Enter Username">
+
+        <input type="password" id="password" placeholder="Enter Password">
+
+        <button onclick="login()">Login</button>
+
+        <p id="message"></p>
+    </div>
+
+    <script src="script.js"></script>
+    
+    </body>
+</html>
